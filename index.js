@@ -30,7 +30,6 @@ class Bird{
      else {
        return (`${this.name} says squawk!`)
      }
-   }
-
+   } 
+   
   }
-}
